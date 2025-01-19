@@ -1,4 +1,4 @@
-function animateName(name = "Wish You Very Happy Birthday AVINASH KUMAR PAL(LALIT) ", speed = 1000, loop = false) {
+function animateName(name = "Wish You Very Happy Birthday SHIVAM AGRAWAL  ", speed = 1000, loop = false) {
     const nameElement = document.querySelector(".logo h2");
     if (!nameElement) return; // Check if the element exists
   
@@ -27,4 +27,4 @@ function animateName(name = "Wish You Very Happy Birthday AVINASH KUMAR PAL(LALI
 }
 
 // Call the function to start the animation
-animateName("Wish You Very Happy Birthday AVINASH KUMAR PAL(LALIT) ", 250, true); // (Name, Speed, Loop)
+animateName("Wish You Very Happy Birthday SHIVAM AGRAWAL  ", 250, true); // (Name, Speed, Loop)
