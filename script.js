@@ -27,4 +27,4 @@ function animateName(name = "   Wish you very Happy Birthday, Aditya Patel! May 
 }
 
 // Call the function to start the animation
-animateName( "   Wish you very Happy Birthday, Aditya Patel! May this special day bring you joy, success, and endless happiness.", 350, true); // (Name, Speed, Loop)
+animateName( "   Wish you very Happy Birthday, Aditya Patel! May this special day bring you joy, success, and endless happiness.", 550, true); // (Name, Speed, Loop)
