@@ -5,7 +5,7 @@
   }
   
   body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     /* background-color: #f4f4f9; */
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@
     text-align: center;
     border: 2px solid #333;
     padding: 20px;
-    width: 500px;
+    width: 450px;
     background-color: #95d3a7d8;
     border-radius: 10px;
     text-shadow: 6px 4px 10px;
